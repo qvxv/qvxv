@@ -5,7 +5,7 @@
 - @discord > cpbase
 - @instagram > maflexcan
 - @dcserver > discord.gg/nefret
-- my website www.nefret.xyz/maflex
+- @my website www.nefret.xyz/maflex
 - I am maflex who has been developing and producing JavaScript URL sniper codes for years.
 
 
