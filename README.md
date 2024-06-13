@@ -9,6 +9,20 @@
 - 😈 I am maflex who has been developing and producing JavaScript URL sniper codes for years.
 
 
+<pre>┌──(<span class="pl-s1">aqu</span>@<span class="pl-s1">root</span>)<span class="pl-c1">-</span>[<span class="pl-c1">~</span><span class="pl-c1">/</span>]
+└─$ <span class="pl-s1">cat</span> <span class="pl-s1">aqu</span>.<span class="pl-s1">py</span>
+
+<span class="pl-k">class</span> <span class="pl-s1">aqu</span>:
+
+<span class="pl-k">def</span>  <span class="pl-en">__social__</span>(<span class="pl-s1">self</span>):
+ <span class="pl-s1">self</span>.<span class="pl-s1">gtb</span> <span class="pl-c1">=</span> <span class="pl-s">"https://github.com/maflexrd"</span>
+ <span class="pl-s1">self</span>.<span class="pl-s1">dsc</span> <span class="pl-c1">=</span> <span class="pl-s">"maflex"</span>
+ <span class="pl-s1">self</span>.<span class="pl-s1">tlg</span> <span class="pl-c1">=</span> <span class="pl-s">"https://t.me/maflex"</span>
+  
+ ┌──(<span class="pl-s1">aqu</span>@<span class="pl-s1">root</span>)<span class="pl-c1">-</span>[<span class="pl-c1">~</span><span class="pl-c1">/</span>]
+ └─$</pre>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
