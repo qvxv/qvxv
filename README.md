@@ -1,7 +1,7 @@
 ## Hello My Name Is Maflex
 
 
-- 😈 Hi, I’m @maflex0001
+- 😈 Hi, I’m @maflexrd
 - 😈 @discord > cpbase
 - 😈 @instagram > maflexcan
 - 😈 @dcserver > discord.gg/nefret
