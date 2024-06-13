@@ -10,7 +10,7 @@
 
 
 <pre>┌──(<span class="pl-s1">maflex</span>@<span class="pl-s1">root</span>)<span class="pl-c1">-</span>[<span class="pl-c1">~</span><span class="pl-c1">/</span>]
-└─$ <span class="pl-s1">cat</span> <span class="pl-s1">maflex</span>.<span class="pl-s1">py</span>
+└─$ <span class="pl-s1">cat</span> <span class="pl-s1">maflex</span>.<span class="pl-s1">js</span>
 
 <span class="pl-k">class</span> <span class="pl-s1">maflex</span>:
 
