@@ -9,17 +9,17 @@
 - 😈 I am maflex who has been developing and producing JavaScript URL sniper codes for years.
 
 
-<pre>┌──(<span class="pl-s1">aqu</span>@<span class="pl-s1">root</span>)<span class="pl-c1">-</span>[<span class="pl-c1">~</span><span class="pl-c1">/</span>]
-└─$ <span class="pl-s1">cat</span> <span class="pl-s1">aqu</span>.<span class="pl-s1">py</span>
+<pre>┌──(<span class="pl-s1">maflex</span>@<span class="pl-s1">root</span>)<span class="pl-c1">-</span>[<span class="pl-c1">~</span><span class="pl-c1">/</span>]
+└─$ <span class="pl-s1">cat</span> <span class="pl-s1">maflex</span>.<span class="pl-s1">py</span>
 
-<span class="pl-k">class</span> <span class="pl-s1">aqu</span>:
+<span class="pl-k">class</span> <span class="pl-s1">maflex</span>:
 
 <span class="pl-k">def</span>  <span class="pl-en">__social__</span>(<span class="pl-s1">self</span>):
  <span class="pl-s1">self</span>.<span class="pl-s1">gtb</span> <span class="pl-c1">=</span> <span class="pl-s">"https://github.com/maflexrd"</span>
  <span class="pl-s1">self</span>.<span class="pl-s1">dsc</span> <span class="pl-c1">=</span> <span class="pl-s">"maflex"</span>
  <span class="pl-s1">self</span>.<span class="pl-s1">tlg</span> <span class="pl-c1">=</span> <span class="pl-s">"https://t.me/maflex"</span>
   
- ┌──(<span class="pl-s1">aqu</span>@<span class="pl-s1">root</span>)<span class="pl-c1">-</span>[<span class="pl-c1">~</span><span class="pl-c1">/</span>]
+ ┌──(<span class="pl-s1">maflex</span>@<span class="pl-s1">root</span>)<span class="pl-c1">-</span>[<span class="pl-c1">~</span><span class="pl-c1">/</span>]
  └─$</pre>
 
 
