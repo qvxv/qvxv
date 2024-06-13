@@ -1,13 +1,12 @@
 ## Hello My Name Is Maflex
 
 
-- 👋 Hi, I’m @maflex0001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Hi, I’m @maflex0001
+- ⚡ @discord > cpbase
+- ⚡ @instagram > maflexcan
+- ⚡ @dcserver > discord.gg/nefret
+- ⚡ my website www.nefret.xyz/maflex
+- ⚡ I am maflex who has been developing and producing JavaScript URL sniper codes for years.
 
 <!---
 maflex0001/maflex0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
