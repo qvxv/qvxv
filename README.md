@@ -33,6 +33,23 @@
 
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="" style="max-width: 100%;">
 
+
+<div align="left" dir="auto">
+<ul dir="auto">
+<li>
+<a href="[https://sptfy.com/alihansalvatore](https://open.spotify.com/intl-tr/artist/2rhSKqFPtutF6VA1NKsnjV?si=dsv8jyUWRpWWsdspu71ELQ)" rel="nofollow">
+<img src="https://camo.githubusercontent.com/36fb833f48b5fb998b1fc32b1c7a7daa65e61aefd77b6c2a217e79f1cf0b5b03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73706f746966793a2020616c6968616e73616c7661746f72652d2532333030616365652e7376673f636f6c6f723d314442393534267374796c653d666f722d7468652d6261646765266c6f676f3d73706f74696679266c6f676f436f6c6f723d7768697465" alt="spotify" data-canonical-src="https://img.shields.io/badge/spotify:  maflex-%2300acee.svg?color=1DB954&amp;style=for-the-badge&amp;logo=spotify&amp;logoColor=white" style="max-width: 100%;">
+</a>
+</li>
+<br>
+<li>
+<a href="https://instagram.com/maflexcan" rel="nofollow">
+<img src="https://camo.githubusercontent.com/0b254b32bc38a3acc36168cedffcf7a38b84f7f24ae91eed770108aa54ff6eeb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d3a2020616c6968616e73616c7661746f72652d2532333030616365652e7376673f636f6c6f723d346336386437267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="instagram" data-canonical-src="https://img.shields.io/badge/instagram:  maflex-%2300acee.svg?color=4c68d7&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
+</a>
+</li>
+</ul>
+</div>
+
 <!---
 maflex0001/maflex0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
