@@ -1,12 +1,12 @@
 ## Hello My Name Is Maflex
 
 
-- 😈 Hi, I’m @maflexrd
-- 😈 @discord > cpbase
-- 😈 @instagram > maflexcan
-- 😈 @dcserver > discord.gg/nefret
-- 😈 my website www.nefret.xyz/maflex
-- 😈 I am maflex who has been developing and producing JavaScript URL sniper codes for years.
+- Hi, I’m @maflexrd
+- @discord > cpbase
+- @instagram > maflexcan
+- @dcserver > discord.gg/nefret
+- my website www.nefret.xyz/maflex
+- I am maflex who has been developing and producing JavaScript URL sniper codes for years.
 
 
 <pre>┌──(<span class="pl-s1">maflex</span>@<span class="pl-s1">root</span>)<span class="pl-c1">-</span>[<span class="pl-c1">~</span><span class="pl-c1">/</span>]
