@@ -2,9 +2,9 @@
 
 ## About me
 - Hi, I’m MAFLEX,
-- @discord > cpbase
+- @discord > maflex
 - @instagram > maflexcan
-- @dcserver > discord.gg/nefret
+- @server gg/nefret gg/23
 - @my website www.nefret.xyz/maflex
 - I am maflex who has been developing and producing JavaScript URL sniper codes for years.
 
