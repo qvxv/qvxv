@@ -26,8 +26,6 @@
  </h2>
 </br>
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FF0000&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Reference+'s" alt="Typing SVG" /></h2>
-<h2 align="center">
 <a href="https://discord.gg/82" target="_blank"><img align="center" alt="maflex1337" width="80px" src="https://cdn.discordapp.com/emojis/1255350229620887654.webp?size=96&quality=lossless" /> </a>
 </h2>
 </br>
