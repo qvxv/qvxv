@@ -38,6 +38,9 @@
 ![](https://komarev.com/ghpvc/?username=maflex1337V&label=Profile+Visits)
 	
 ## <picture><img src = "https://cdn.discordapp.com/emojis/1255350229620887654.webp?size=96&quality=lossless" width = 50px></picture> **About me**
+<br> </br>
+<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/maflex1337?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
+</h2>
 
 <br>
 
@@ -48,12 +51,6 @@
 - I'm currently open for a business opportunity and partnership
 
 <br><br>
-
-
-
-<br> </br>
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/maflex1337?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
-</h2>
 
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
