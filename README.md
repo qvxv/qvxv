@@ -56,7 +56,7 @@
  <a href="https://discord.com/users/1205211762904006737"><img  width="400px" src="https://lanyard.kyrie25.me/api/1205211762904006737?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Nothingness"></a>
 <a href="https://discord.com/users/1205213532271153153"><img  width="400px" src="https://lanyard.kyrie25.me/api/1205213532271153153?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Kan+Ve+Kin"></a>
 <br> </br>
- <a href="https://open.spotify.com/user/ce0ajrgwwnt9eivyq344bslu9?si=40af45a3fc36404d" align="center"> <img align="center" src="https://svg.yalin.app/vwuht447wffml59xtfokakivv"></a>
+ 
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 <p align="center">
