@@ -26,9 +26,28 @@
  </h2>
 </br>
 
-<a href="https://discord.gg/82" target="_blank"><img align="center" alt="maflex1337" width="80px" src="https://cdn.discordapp.com/emojis/1255350229620887654.webp?size=96&quality=lossless" /> </a>
-</h2>
-</br>
+<h1 align="center"><b>Hi , I'm Maflex </h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Web+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=KlanterV&label=Profile+Visits)
+	
+## <picture><img src = "./img/star.gif" width = 50px></picture> **About me**
+
+<br>
+
+- A passionate Self-taught Web Developer
+- Playing DDraceNetwork at spare time
+- Currently learning Unreal Engine
+- Personal website [link](https://www.nefret.xyz/maflex)
+- I'm currently open for a business opportunity and partnership
+
+<br><br>
 
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
