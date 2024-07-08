@@ -42,7 +42,7 @@
 ## <picture><img src = "https://cdn.discordapp.com/emojis/1255350229620887654.webp?size=96&quality=lossless" width = 50px></picture> **About me**
 
 - A passionate Self-taught JS Developer
-- Playing DDraceNetwork at spare time
+- I playing DDraceNetwork in my spare time
 - Currently learning Unreal Engine
 - Personal website [link](https://www.nefret.xyz/maflex)
 - I'm currently open for a business opportunity and partnership
