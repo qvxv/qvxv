@@ -4,9 +4,9 @@
 - Hi, I’m MAFLEX,
 - @discord > maflex
 - @instagram > maflexcan
-- @server gg/nefret gg/23
+- @server discord.gg/82
 - @my website www.nefret.xyz/maflex
-- I am maflex who has been developing and producing JavaScript URL sniper codes for years.
+- Full Stack Dev..
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
