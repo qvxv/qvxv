@@ -40,10 +40,8 @@
 <br> </br>
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/maflex1337?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
 </h2>
+
 ## <picture><img src = "https://cdn.discordapp.com/emojis/1255350229620887654.webp?size=96&quality=lossless" width = 50px></picture> **About me**
-
-
-<br>
 
 - A passionate Self-taught Web Developer
 - Playing DDraceNetwork at spare time
