@@ -29,7 +29,7 @@
 <h1 align="center"><b>Hi , I'm Maflex </h1>
 
 <p align="center">
-<img src="https://cdn.discordapp.com/emojis/1255350229620887654.webp?size=96&quality=lossless"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Web+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -37,7 +37,7 @@
 
 ![](https://komarev.com/ghpvc/?username=maflex1337V&label=Profile+Visits)
 	
-## <picture><img src = "./img/star.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://cdn.discordapp.com/emojis/1255350229620887654.webp?size=96&quality=lossless" width = 50px></picture> **About me**
 
 <br>
 
