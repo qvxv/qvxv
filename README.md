@@ -54,7 +54,7 @@
 
 <h2 align="center">
  <a href="https://discord.com/users/1205211762904006737"><img  width="400px" src="https://lanyard.kyrie25.me/api/1205211762904006737?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Nothingness"></a>
-<a href="https://discord.com/users/1205213532271153153"><img  width="400px" src="https://lanyard.kyrie25.me/api/1205213532271153153?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Kan+Ve+Kin"></a>
+<a href="https://discord.com/users/1205213532271153153"><img  width="400px" src="https://lanyard.kyrie25.me/api/1206652090152255499?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Kan+Ve+Kin"></a>
 <br> </br>
  
 
