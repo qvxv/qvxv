@@ -53,8 +53,8 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
 <h2 align="center">
- <a href="https://discord.com/users/1205211762904006737"><img  width="400px" src="https://lanyard.kyrie25.me/api/1205211762904006737?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Kan+Ve+Kin"></a>
-<a href="https://discord.com/users/1205213532271153153"><img  width="400px" src="https://lanyard.kyrie25.me/api/1206652090152255499?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Kan+Ve+Kin"></a>
+ <a href="https://discord.com/users/1205211762904006737"><img  width="400px" src="https://lanyard.kyrie25.me/api/1205211762904006737?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=discord.gg/82"></a>
+<a href="https://discord.com/users/1205213532271153153"><img  width="400px" src="https://lanyard.kyrie25.me/api/1206652090152255499?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=discord.gg/82"></a>
 <br> </br>
  
 
