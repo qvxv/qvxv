@@ -35,7 +35,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=maflex1337V&label=Profile+Visits)
+![](https://komarev.com/ghpvc/?username=82lsdV&label=Profile+Visits)
 
 <br> </br>
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/maflex1337?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a></h2>
