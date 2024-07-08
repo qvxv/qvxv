@@ -35,7 +35,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=KlanterV&label=Profile+Visits)
+![](https://komarev.com/ghpvc/?username=maflex1337V&label=Profile+Visits)
 	
 ## <picture><img src = "./img/star.gif" width = 50px></picture> **About me**
 
